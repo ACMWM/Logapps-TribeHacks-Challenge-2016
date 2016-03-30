@@ -11,13 +11,13 @@ Logapps invites your team to solve the following two-part problem set within the
 Using NLP in Java or Python decompose the paragraphs and sentences attached in Appendix 1 
 [to include subject(s), verb(s), object(s), etc.] and export to a table using the same format in example 1.
 
-* See [Table 2](#Table-2) for clarification. 
+* See [Table 2](#table-2) for clarification. 
 
 ### Part 2
 
 Using Table 1 Key Words and the Business Rules below, expand on the table generated in part 1 but with the summation of the numbers within each column. 
 
-* See table 3 for clarification. 
+* See [Table 3](#table-3) for clarification. 
 
 ## Business Rules
 
@@ -31,10 +31,10 @@ numbers from the reference table for the second sentence
 
 ## Inputs
 
-1. The Global Differential GPS System – NASA write up – Appendix 1. Inclusive of Functional 
-Overview, Usability, Quality Factors and Creativity sections.
+1. [The Global Differential GPS System – NASA write up – Appendix 1. Inclusive of Functional 
+Overview, Usability, Quality Factors and Creativity sections.](https://github.com/ACMWM/Logapps-TribeHacks-Challenge-2016/blob/master/appendix1.txt)
 
-2. Table 1
+2. [Table 1](https://github.com/ACMWM/Logapps-TribeHacks-Challenge-2016/blob/master/table1.csv)
 
 ## Outputs
 
