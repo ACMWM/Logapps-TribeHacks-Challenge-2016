@@ -68,3 +68,8 @@ Overview, Usability, Quality Factors and Creativity sections.](https://github.co
 
 ** the key word ‘develop’ has been captured in the father/first sentence (within the same paragraph), thus the values for it in category 1-7 will not be added.
 
+### Submission Guidelines:
+Code and output must be on Github and submitted on DevPost for review.
+
+### Questions?
+For clarification on the problem, please contact Kevin McKeel at mckeel@logapps.com or 703.919.6359.
