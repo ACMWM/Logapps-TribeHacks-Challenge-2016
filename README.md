@@ -11,13 +11,13 @@ Logapps invites your team to solve the following two-part problem set within the
 Using NLP in Java or Python decompose the paragraphs and sentences attached in Appendix 1 
 [to include subject(s), verb(s), object(s), etc.] and export to a table using the same format in example 1.
 
-* See table 2 on page 3 for clarification. 
+* See table 2 for clarification. 
 
 ### Part 2
 
-Using Table 1 Key Words on page 2 and the Business Rules below, expand on the table generated in part 1 but with the summation of the numbers within each column. 
+Using Table 1 Key Words and the Business Rules below, expand on the table generated in part 1 but with the summation of the numbers within each column. 
 
-* See table 3 on page 4 for clarification. 
+* See table 3 for clarification. 
 
 ## Business Rules
 
@@ -31,7 +31,7 @@ numbers from the reference table for the second sentence
 
 ## Inputs
 
-1. The Global Differential GPS System – NASA write up – Page 5, Appendix 1. Inclusive of Functional 
+1. The Global Differential GPS System – NASA write up – Appendix 1. Inclusive of Functional 
 Overview, Usability, Quality Factors and Creativity sections.
 
 2. Table 1
@@ -45,6 +45,12 @@ Overview, Usability, Quality Factors and Creativity sections.
 	* Object(s)
 
 2. An expanded table to part 1 to include 7 categories, in the format of Table 3.
+
+### Sample Outputs
+
+#### Example 1 (Part 1 of the Problem)
+
+
 
 
 
@@ -102,3 +108,10 @@ Overview, Usability, Quality Factors and Creativity sections.
 | Use         | 7          | 6          | 8          | 7          | 1          | 0          | 8          |
 | Work        | 3          | 7          | 3          | 8          | 6          | 3          | 5          |
 
+
+### Table 3
+
+| Para. # | Sent. # | Subject          | Verbs                                               | Actual Verbs          | Remaining                                                                              |                                                  |
+|---------|---------|------------------|-----------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------|--------------------------------------------------|
+| 1       | 1       | The GDGPS        | Is Drive Power Set Develop Complete Possess Capable | Drive Develop Possess | Powerful software set Completely in house at JPL Many unique features and capabilities |                                                  |
+| 1       | 2       | The C++ Software | Evolve Develop Lead Process Package Is              | Evolve Develop        | "From one of the world's leading GPS data processing and analysis software packages    | JPL's GIPCY-OASIS and its real time version RTG" |
