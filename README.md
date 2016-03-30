@@ -39,17 +39,20 @@ Overview, Usability, Quality Factors and Creativity sections.
 ## Outputs
 
 1. A table for the Global Differential GPS System sentences breakdown. The table at minimum must show:
-- Sentence unique ID 
-- Verb(s)
-- Subject(s)
-- Object(s)
+	* Sentence unique ID 
+	* Verb(s)
+	* Subject(s)
+	* Object(s)
 
 2. An expanded table to part 1 to include 7 categories, in the format of Table 3.
 
 
+
+## Tables
+
+### Table 1
 | Key Word    | Category 1 | Category 2 | Category 3 | Category 4 | Category 5 | Category 6 | Category 7 |
 |-------------|------------|------------|------------|------------|------------|------------|------------|
-|             |            |            |            |            |            |            |            |
 | Accommodate | 8          | 8          | 7          | 3          | 1          | 1          | 2          |
 | Achieve     | 0          | 2          | 2          | 3          | 6          | 5          | 7          |
 | Adapt       | 9          | 3          | 5          | 6          | 2          | 4          | 3          |
