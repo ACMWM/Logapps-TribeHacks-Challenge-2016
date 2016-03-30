@@ -11,7 +11,7 @@ Logapps invites your team to solve the following two-part problem set within the
 Using NLP in Java or Python decompose the paragraphs and sentences attached in Appendix 1 
 [to include subject(s), verb(s), object(s), etc.] and export to a table using the same format in example 1.
 
-* See table 2 for clarification. 
+* See [Table 2](#Table-2) for clarification. 
 
 ### Part 2
 
