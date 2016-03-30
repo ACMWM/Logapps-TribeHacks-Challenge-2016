@@ -1,0 +1,39 @@
+The Global Differential GPS System – NASA
+
+FUNCTIONAL OVERVIEW
+The GDGPS System is driven by a powerful software set, developed completely in-house at JPL, and possessing 
+many unique features and capabilities. The C++ software was developed and evolved from one of the world's 
+leading GPS data processing and analysis software packages, JPL's GIPSY-OASIS and its real-time version RTG (
+Real Time GIPSY). 
+
+USABILITY
+U.1.	The system shall be completely automated, with end-to-end automatic operations.
+U.2.	Complete positioning system. 
+	U.2.1.	The software handles all aspects of a complete real time global positioning system, including GNSS orbit determination and simultaneous network positioning. 
+	U.2.2.	The software performs user positioning and orbit determination. 
+	U.2.3.	The system supports real-time applications as well as post-processing applications. 
+	U.2.4.	Simulations capability.
+U.3.	Highly portable. The software is regularly tested on multiple flavors of Linux. Various positioning modules have been ported to several embedded real-time environments, including flight receivers.
+U.4.	Versatile. The system works with many types of popular geodetic receivers. Flexible adaptation layer makes it easy to accommodate new receiver types.
+U.5.	Visual aids. Real time graphic display of performance using network monitoring tools and internal quality control.
+
+QUALITY FACTORS
+Q.1.	The system shall be developed with Object Oriented C++ and Python for portability and maintainability.
+Q.2.	Modularity. Highly modular code will be developed to support embedded as well as ground applications.
+Q.3.	Reliability. There must be an outstanding track record of continuous operations.
+Q.4.	Accuracy. All models are sub-cm accurate for the most demanding science applications.
+Q.5.	Maintainability. The system shall be designed for operations by a third party and for team maintenance. Configuration control management.
+CREATIVITY
+C.1.	Parallelized architecture (MPI) enables real-time solutions to massive estimation problems.
+C.2.	State-space architecture guarantees seamless global uniformity of the differential corrections
+C.3.	Innovative use of the internet to achieve robustness through redundancy
+C.4.	Unique satellite dynamics and signal models developed in house at JPL
+C.5.	The system shall include efficient GNSS data compression
+C.6.	Innovative system  developed for end-to-end redundant operations provides high reliability
+C.7.	Uniquely flexible filter design allows any parameter to have stochastic attributes
+C.8.	The system shall be Capable of adding satellites/receivers on the fly
+C.9.	Unique dynamics integrator supports very high orbit modeling accuracy
+C.10.	Tropospheric delay model and stochastic estimation capability designed for users or reference sites
+C.11.	The system shall exploit full information content of phase data
+C.12.	The system shall provide real time playback
+C.13.	The Software will be protected by multiple U.S. and non-U.S. patents

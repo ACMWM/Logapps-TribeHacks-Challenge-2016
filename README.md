@@ -50,68 +50,21 @@ Overview, Usability, Quality Factors and Creativity sections.
 
 #### Example 1 (Part 1 of the Problem)
 
-
-
-
-
-## Tables
-
-### Table 1
-| Key Word    | Category 1 | Category 2 | Category 3 | Category 4 | Category 5 | Category 6 | Category 7 |
-|-------------|------------|------------|------------|------------|------------|------------|------------|
-| Accommodate | 8          | 8          | 7          | 3          | 1          | 1          | 2          |
-| Achieve     | 0          | 2          | 2          | 3          | 6          | 5          | 7          |
-| Adapt       | 9          | 3          | 5          | 6          | 2          | 4          | 3          |
-| Add         | 8          | 8          | 0          | 4          | 2          | 8          | 7          |
-| Analyze     | 5          | 5          | 3          | 0          | 4          | 7          | 4          |
-| Capable     | 8          | 7          | 2          | 4          | 9          | 8          | 6          |
-| Complete    | 5          | 2          | 3          | 2          | 5          | 4          | 9          |
-| Compress    | 1          | 3          | 0          | 2          | 8          | 9          | 3          |
-| Control     | 2          | 1          | 6          | 3          | 3          | 0          | 5          |
-| Delay       | 2          | 3          | 2          | 6          | 8          | 4          | 9          |
-| Demand      | 8          | 6          | 1          | 3          | 1          | 7          | 0          |
-| Design      | 5          | 1          | 3          | 9          | 7          | 3          | 5          |
-| Determine   | 9          | 7          | 5          | 0          | 8          | 6          | 8          |
-| Develop     | 2          | 4          | 1          | 1          | 9          | 8          | 2          |
-| Display     | 8          | 3          | 9          | 2          | 7          | 4          | 5          |
-| Drive       | 7          | 5          | 5          | 8          | 4          | 3          | 0          |
-| Embed       | 7          | 5          | 8          | 1          | 9          | 7          | 8          |
-| Enable      | 9          | 6          | 4          | 2          | 1          | 7          | 5          |
-| Estimate    | 3          | 2          | 7          | 5          | 2          | 8          | 4          |
-| Evolve      | 4          | 1          | 2          | 9          | 6          | 2          | 6          |
-| Exploit     | 7          | 4          | 3          | 5          | 5          | 6          | 1          |
-| Ground      | 3          | 8          | 8          | 5          | 5          | 2          | 1          |
-| Guarantee   | 7          | 3          | 1          | 6          | 1          | 8          | 2          |
-| Handle      | 7          | 6          | 1          | 6          | 5          | 3          | 3          |
-| Integrate   | 8          | 6          | 0          | 5          | 6          | 3          | 4          |
-| Lead        | 3          | 2          | 1          | 0          | 8          | 9          | 5          |
-| Maintain    | 9          | 6          | 2          | 1          | 4          | 7          | 5          |
-| Model       | 4          | 6          | 8          | 2          | 4          | 8          | 5          |
-| Monitor     | 6          | 7          | 9          | 1          | 2          | 2          | 6          |
-| Operate     | 1          | 1          | 5          | 7          | 1          | 8          | 4          |
-| Orbit       | 7          | 5          | 4          | 1          | 6          | 1          | 7          |
-| Perform     | 3          | 6          | 3          | 1          | 5          | 1          | 6          |
-| Playback    | 6          | 8          | 9          | 5          | 7          | 8          | 6          |
-| Portable    | 6          | 7          | 6          | 5          | 9          | 3          | 6          |
-| Position    | 7          | 8          | 5          | 2          | 1          | 1          | 7          |
-| Possess     | 6          | 0          | 5          | 4          | 4          | 5          | 7          |
-| Post        | 1          | 1          | 1          | 2          | 2          | 3          | 4          |
-| Process     | 2          | 4          | 6          | 2          | 3          | 2          | 8          |
-| Protect     | 3          | 5          | 7          | 3          | 8          | 4          | 7          |
-| Receive     | 7          | 1          | 1          | 8          | 5          | 9          | 4          |
-| Record      | 4          | 7          | 1          | 6          | 6          | 8          | 1          |
-| Set         | 6          | 5          | 4          | 1          | 3          | 3          | 3          |
-| Simulate    | 4          | 4          | 1          | 7          | 1          | 7          | 8          |
-| Support     | 2          | 4          | 9          | 7          | 7          | 2          | 8          |
-| Test        | 0          | 3          | 3          | 7          | 2          | 1          | 7          |
-| Track       | 1          | 4          | 4          | 9          | 2          | 4          | 4          |
-| Use         | 7          | 6          | 8          | 7          | 1          | 0          | 8          |
-| Work        | 3          | 7          | 3          | 8          | 6          | 3          | 5          |
-
-
-### Table 3
+##### Table 2
 
 | Para. # | Sent. # | Subject          | Verbs                                               | Actual Verbs          | Remaining                                                                              |                                                  |
 |---------|---------|------------------|-----------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------|--------------------------------------------------|
 | 1       | 1       | The GDGPS        | Is Drive Power Set Develop Complete Possess Capable | Drive Develop Possess | Powerful software set Completely in house at JPL Many unique features and capabilities |                                                  |
 | 1       | 2       | The C++ Software | Evolve Develop Lead Process Package Is              | Evolve Develop        | "From one of the world's leading GPS data processing and analysis software packages     JPL's GIPCY-OASIS and its real time version RTG" |
+
+#### Example 2 (Part 2 of the Problem)
+
+##### Table 3
+
+| Para. # | Sent. # | Subject          | Verbs                                               | Actual Verbs          | Remaining                                                                                                                           | Ctg. #1    | Ctg. #2   | Ctg. #3    | Ctg. #4    | Ctg. #5    | Ctg. #6    | Ctg. #7   |
+|---------|---------|------------------|-----------------------------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------|-----------|------------|------------|------------|------------|-----------|
+| 1       | 1       | The GDGPS        | Is Drive Power Set Develop Complete Possess Capable | Drive Develop Possess | Powerful software set Completely in house at JPL Many unique features and capabilities                                              | 7+ 2+ 6=15 | 5+ 4+ 0=9 | 5+ 1+ 5=11 | 8+ 1+ 4=13 | 4+ 9+ 4=17 | 3+ 8+ 5=16 | 0+ 2+ 7=0 |
+| 1       | 2       | The C++ Software | Evolve Develop Lead Process Package Is              | Evolve Develop        | From one of the worldŐs leading GPS data processing and analysis software packages, JPLŐs GIPCY-OASIS and its real time version RTG | 4+ 0=4     | 1+ 0=1    | 2+ 0=2     | 9+ 0=9     | 6+ 0=6     | 2+ 0=2     | 6+ 0=6    |
+
+
+
