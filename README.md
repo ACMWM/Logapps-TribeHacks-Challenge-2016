@@ -39,7 +39,7 @@ Overview, Usability, Quality Factors and Creativity sections.](https://github.co
 ## Outputs
 
 1. A table for the [Global Differential GPS System](https://github.com/ACMWM/Logapps-TribeHacks-Challenge-2016/blob/master/appendix1.txt) sentences breakdown. The table at minimum must show:
-	* Sentence unique ID 
+	* Sentence unique ID
 	* Verb(s)
 	* Subject(s)
 	* Object(s)
