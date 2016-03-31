@@ -1,7 +1,7 @@
 # Logapps-TribeHacks-Challenge-2016
 ![alt tag](http://static1.squarespace.com/static/558ad739e4b0691bf6ef2d36/t/55fc3e89e4b039f7eac27f68/1459186648029/?format=400w)
 
-Logapps invites your team to solve the following two-part problem set within the guidelines. By the end of this exercise, your team will gain knowledge in Natural Language Processing (NLP) and string searching algorithms.  No prior knowledge in NLP is required, but teammates should have reasonable programming ability using Java or Python and making tables and graphing data structures. 
+Logapps invites your team to solve the following two-part problem set within the guidelines. By the end of this exercise, your team will gain knowledge of Natural Language Processing (NLP) and string searching algorithms.  No prior knowledge of NLP is required, but teammates should have reasonable programming ability using Java or Python and have to ability to output results into simple tables or charts. 
 
 We suggest TribeHack participants download NLTK (http://www.nltk.org/) and view the Stanford CoreNLP suite of tools (http://stanfordnlp.github.io/CoreNLP/index.html).
 
@@ -80,7 +80,7 @@ Overview, Usability, Quality Factors and Creativity sections.](https://github.co
 ##### 4. Structure:
 	* Sensible segmentations of functionality or modules
 ##### 1. Bonus Points:
-	* Bonus points given for exppanding on the problem and identifying and demonstrating other uses of NLP that logically extends to problem
+	* Bonus points given for clear and attractive output. Also, teams should expand on the problem and identify and demonstrate other uses of NLP that logically extends to problem
 
 ### Submission Guidelines:
 Code and output must be on Github and submitted on DevPost for review.
