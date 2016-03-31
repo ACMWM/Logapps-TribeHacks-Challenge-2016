@@ -74,7 +74,7 @@ Overview, Usability, Quality Factors and Creativity sections.](https://github.co
 ## Judging Criterias:
 
 ##### 1. Innovation:
-	*  Novel  use of  tools or creative code written to solve the solution.
+	*  Novel use of tools or creative code written to solve the solution.
 ##### 2. Usability:
 	* How close does the application match the criteria in the challenge?  Are there extra features and capabilities of the code?
 ##### 4. Structure:
