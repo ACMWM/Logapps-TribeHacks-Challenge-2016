@@ -68,6 +68,18 @@ Overview, Usability, Quality Factors and Creativity sections.](https://github.co
 
 ** the key word ‘develop’ has been captured in the father/first sentence (within the same paragraph), thus the values for it in category 1-7 will not be added.
 
+## Judging Criteria:
+
+##### 1. Innovation:
+	* Does your application think outside the box?
+##### 2. Business Value:
+	* Does the business application create value?
+##### 3. Use:
+	* Does the application solve the problem?  Are there extra features and capabilities of the code?
+##### 4. Followed Rules:
+	* Did the group provide solutions within the established guidelines?
+
+
 ### Submission Guidelines:
 Code and output must be on Github and submitted on DevPost for review.
 
