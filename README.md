@@ -68,7 +68,7 @@ Overview, Usability, Quality Factors and Creativity sections.](https://github.co
 
 ** the key word ‘develop’ has been captured in the father/first sentence (within the same paragraph), thus the values for it in category 1-7 will not be added.
 
-## Judging Criteria:
+## Judging Criterias:
 
 ##### 1. Innovation:
 	* Does your application think outside the box?
