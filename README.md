@@ -74,14 +74,13 @@ Overview, Usability, Quality Factors and Creativity sections.](https://github.co
 ## Judging Criterias:
 
 ##### 1. Innovation:
-	* Does your application think outside the box?
-##### 2. Business Value:
-	* Does the business application create value?
-##### 3. Use:
-	* Does the application solve the problem?  Are there extra features and capabilities of the code?
+	*  Novel  use of  tools or creative code written to solve the solution.
+##### 2. Usability:
+	* How close does the application match the criteria in the challenge?  Are there extra features and capabilities of the code?
 ##### 4. Structure:
-	* Did the group provide solutions within the established guidelines?
-
+	* Sensible segmentations of functionality or modules
+##### 1. Bonus Points:
+	* Bonus points given for exppanding on the problem and identifying and demonstrating other uses of NLP that logically extends to problem
 
 ### Submission Guidelines:
 Code and output must be on Github and submitted on DevPost for review.
